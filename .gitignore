@@ -1,0 +1,5 @@
+*
+!.gitignore
+!generator-shared.lua
+!sparta-metal-lab.lua
+!vrjugglua-metal-lab.lua
