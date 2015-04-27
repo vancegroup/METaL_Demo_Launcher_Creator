@@ -18,7 +18,7 @@ launchers = {
 	options = {
 		{
 			["Adam Factory Navigation Only"] = [[spartaFactoryModel/Factory/standalone_main.lua]];
-			["Adam Factory Forklift Driving"] = [[adam-factory/Factory/standalone_main.lua]];
+			["Adam Factory Forklift Driving"] = [[adam-factory/main_forklift.lua]];
 			["Virtually Magic"] = [[virtually-magic/Scripts/main.lua]];
 			["Virtual METaL"] = [[Virtual-METaL/main.lua]];
 			["Blender Design Review"] = [[BlenderDesignReview/main.lua]];
