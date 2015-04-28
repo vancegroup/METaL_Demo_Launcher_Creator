@@ -28,6 +28,7 @@ launchers = {
 			["Framerate Sphere Drawing"] = [[Framerate/main.lua]];
 			["Shopping Cart PhysicalRotation"] = [[SuperShoppingCart/main.lua SuperShoppingCart/MetalEverybody.jconf PhysicalRotation]];
 			["Shopping Cart RateBasedRotation"] = [[SuperShoppingCart/main.lua SuperShoppingCart/MetalEverybody.jconf RateBasedRotation]];
+			["Shopping Cart Wiimote"] = [[SuperShoppingCart/main.lua SuperShoppingCart/MetalEverybody.jconf Wiimote]];
 
 		};
 		
